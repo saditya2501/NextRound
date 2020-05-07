@@ -25,7 +25,7 @@ public class Solution {
         {
             if(arr[i] >= key && arr[i] > 0)
             {
-                count++;//
+                count++;
             }
 
         }
