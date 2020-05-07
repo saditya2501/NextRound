@@ -28,7 +28,6 @@ public class Solution {
                 count++;
             }
         }
-
         System.out.println(count-1);
 
 
