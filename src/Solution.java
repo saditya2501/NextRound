@@ -1,5 +1,5 @@
 import java.util.*;
-//Hackker
+//Hackker rank
 public class Solution {
 
     public static void main(String[] args) {
