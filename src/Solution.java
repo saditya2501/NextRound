@@ -16,7 +16,6 @@ public class Solution {
         for(int i = 0; i < n; i++)
         {
             arr[i] = sc.nextInt();
-
         }
 
         int key = arr[k-1];
